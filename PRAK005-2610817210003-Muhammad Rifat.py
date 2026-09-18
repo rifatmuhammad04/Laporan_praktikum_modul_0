@@ -1,0 +1,10 @@
+# Contoh untuk nama Rifat ( R dan T)
+
+print(" #######        ###########")
+print(" #      #            #     ")
+print(" #      #            #     ")
+print(" #######             #     ")
+print(" #      #            #     ")
+print(" #      #            #     ")
+print(" #      #            #     ")
+print("---------------------------")
